@@ -17,14 +17,6 @@ I work across full-stack development, generative AI, SaaS architecture, workflow
 
 I’m currently working on AI-driven platforms, automation tools, chatbot systems, and custom software solutions for businesses through Machador and FBS-Solution.
 
-## 🛠️ Tech Stack
-
-```txt
-Frontend: React, TypeScript, Tailwind CSS, Flutter, HTML, CSS, JavaScript
-Backend: Laravel, PHP, Python, Flask, FastAPI, Node.js
-Database: MySQL, MongoDB, Firebase, Supabase
-AI: OpenAI, Azure OpenAI, LangChain, local LLMs
-Tools: GitHub, Vercel, DigitalOcean, Google Cloud, Cloudflare, Make, Asana
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbirahmed.sagor1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabbir_ahmed_sagor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsabbiron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.sabbir@codepoka.com) 
@@ -41,5 +33,3 @@ Tools: GitHub, Vercel, DigitalOcean, Google Cloud, Cloudflare, Make, Asana
 
 ---
 [![](https://komarev.com/ghpvc/?username=grandsource&icon=1&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
