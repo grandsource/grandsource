@@ -1,6 +1,30 @@
-# 💫 About Me:
-# Hi, I'm Sabbir 👋<br><br>I’m a CTO, software developer, and AI automation specialist with 10+ years of experience building modern web platforms, business automation systems, and AI-powered products.<br><br>I work across full-stack development, generative AI, SaaS architecture, workflow automation, and scalable business solutions. My focus is on creating practical systems that solve real business problems — from AI chatbots and call agents to project management tools, CRM automation, SEO platforms, and custom web applications.<br><br>## 🚀 What I Do<br><br>- Build AI-powered business applications<br>- Develop full-stack web platforms using React, TypeScript, Laravel, PHP, Python, and Flutter<br>- Design automation systems for companies and agencies<br>- Work with OpenAI, Azure OpenAI, Supabase, Firebase, MongoDB, MySQL, and cloud infrastructure<br>- Create scalable SaaS products with clean UI/UX and secure backend architecture<br>- Optimize websites for SEO, GEO, AEO, and modern search visibility<br><br>## 🧠 Current Focus<br><br>I’m currently working on AI-driven platforms, automation tools, chatbot systems, and custom software solutions for businesses through Machador and FBS-Solution.<br><br>## 🛠️ Tech Stack<br><br>```txt<br>Frontend: React, TypeScript, Tailwind CSS, Flutter, HTML, CSS, JavaScript<br>Backend: Laravel, PHP, Python, Flask, FastAPI, Node.js<br>Database: MySQL, MongoDB, Firebase, Supabase<br>AI: OpenAI, Azure OpenAI, LangChain, local LLMs<br>Tools: GitHub, Vercel, DigitalOcean, Google Cloud, Cloudflare, Make, Asana
+# Hi, I'm Sabbir 👋
 
+I’m a CTO, software developer, and AI automation specialist with 10+ years of experience building modern web platforms, business automation systems, and AI-powered products.
+
+I work across full-stack development, generative AI, SaaS architecture, workflow automation, and scalable business solutions. My focus is on creating practical systems that solve real business problems — from AI chatbots and call agents to project management tools, CRM automation, SEO platforms, and custom web applications.
+
+## 🚀 What I Do
+
+- Build AI-powered business applications
+- Develop full-stack web platforms using React, TypeScript, Laravel, PHP, Python, and Flutter
+- Design automation systems for companies and agencies
+- Work with OpenAI, Azure OpenAI, Supabase, Firebase, MongoDB, MySQL, and cloud infrastructure
+- Create scalable SaaS products with clean UI/UX and secure backend architecture
+- Optimize websites for SEO, GEO, AEO, and modern search visibility
+
+## 🧠 Current Focus
+
+I’m currently working on AI-driven platforms, automation tools, chatbot systems, and custom software solutions for businesses through Machador and FBS-Solution.
+
+## 🛠️ Tech Stack
+
+```txt
+Frontend: React, TypeScript, Tailwind CSS, Flutter, HTML, CSS, JavaScript
+Backend: Laravel, PHP, Python, Flask, FastAPI, Node.js
+Database: MySQL, MongoDB, Firebase, Supabase
+AI: OpenAI, Azure OpenAI, LangChain, local LLMs
+Tools: GitHub, Vercel, DigitalOcean, Google Cloud, Cloudflare, Make, Asana
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbirahmed.sagor1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabbir_ahmed_sagor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsabbiron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.sabbir@codepoka.com) 
